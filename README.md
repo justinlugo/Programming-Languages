@@ -1,2 +1,2 @@
 # Programming-Languages
-Various languages / assignments completed for one of my classes (Haskell, JavaScript, C++, C#).
+(Fall 2022)<br>For one of my classes, we essentially learned four different languages and the various differences between them, as well as the benefits and drawbacks between each one. These languages included Haskell, JavaScript (with some HTML and TypeScript), C++, and C#. For the most part, we would practice solving Project Euler questions, but also there are some smaller projects within each language as well, such as C# having a multithreading and temperature converter, and JavaScript having an area/rectangle calculator.
