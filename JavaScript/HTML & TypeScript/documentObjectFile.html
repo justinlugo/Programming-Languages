@@ -1,0 +1,54 @@
+<html>
+    <body>
+        <div class = "text input">
+            <label for = "data1">Enter Some Data Here: </label>
+            <input type ="text" id = "data1" name = "data1"><br>
+        </div>
+        <div class = "button">
+            <button onclick="getData()">
+            Move the Data
+            </button>
+        </div>
+        <p id = "demo1"></p>
+        <script>
+            function getData() {
+                var data = document.getElementById("data1").value;
+                document.getElementById("demo1").textContent=data;
+            }
+        </script>
+
+        <div class = "text input">
+            <label for = "data2">Enter Some Data Here: </label>
+            <input type ="text" id = "data2" name = "data2"><br>
+        </div>
+        <div class = "button">
+            <button onclick="getData2()">
+            Move the Data
+            </button>
+        </div>
+        <p id = "demo2"></p>
+        <script>
+            function getData2() {
+                var data = document.getElementById("data2").value;
+                document.getElementById("demo2").textContent=data;
+            }
+        </script>
+
+        <div class = "text input">
+            <label for = "data3">Enter Some Data Here: </label>
+            <input type ="text" id = "data3" name = "data3"><br>
+        </div>
+        <div class = "button">
+            <button onclick="getData3()">
+            Move the Data
+            </button>
+        </div>
+        <p id = "demo3"></p>
+        <script>
+            function getData3() {
+                var data = document.getElementById("data3").value;
+                document.getElementById("demo3").textContent=data;
+            }
+        </script>
+    </body>
+</html>

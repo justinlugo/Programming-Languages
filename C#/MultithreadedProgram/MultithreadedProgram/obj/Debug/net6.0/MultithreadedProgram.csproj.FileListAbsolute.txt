@@ -1,0 +1,15 @@
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\bin\Debug\net6.0\MultithreadedProgram.exe
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\bin\Debug\net6.0\MultithreadedProgram.deps.json
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\bin\Debug\net6.0\MultithreadedProgram.runtimeconfig.json
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\bin\Debug\net6.0\MultithreadedProgram.dll
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\bin\Debug\net6.0\MultithreadedProgram.pdb
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.csproj.AssemblyReference.cache
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.AssemblyInfoInputs.cache
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.AssemblyInfo.cs
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.csproj.CoreCompileInputs.cache
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.dll
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\refint\MultithreadedProgram.dll
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.pdb
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\MultithreadedProgram.genruntimeconfig.cache
+C:\Users\TC2 - TEST\source\repos\MultithreadedProgram\MultithreadedProgram\obj\Debug\net6.0\ref\MultithreadedProgram.dll

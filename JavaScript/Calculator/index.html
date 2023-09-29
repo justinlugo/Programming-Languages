@@ -1,0 +1,48 @@
+<!-- HTML web application that asks user to input the width and height of a rectangle and the radius of a circle
+and will output the perimeters and areas of each respective shape based on the input dimensions; it does this by
+calling upon the functions from the code.js file that NEEDS to be included in the same directory to work. -->
+<html>
+    <head>
+        <script src="code.js"></script>
+    </head>
+    <body>
+        <div class = "text input">
+            <label for = "data1">Enter Rectangle Width: </label>
+            <input type ="text" id = "data1" name = "data1"><br>
+            <label for = "data2">Enter Rectangle Height: </label>
+            <input type ="text" id = "data2" name = "data2"><br>
+        </div>
+        <div class = "button">
+            <button onclick="getData()">
+                Calculate Perimeter and Area
+            </button>
+        </div>
+        <p id = "demo1">Perimeter:<br />Area:</p>
+        <script>
+            function getData() {
+                var data1 = document.getElementById("data1").value;
+                var data2 = document.getElementById("data2").value;
+                // document.getElementById("demo1").textContent = "Perimeter: " + (rectanglePerimeter(data1,data2)) + " | Area: " + (rectangleArea(data1,data2));
+                document.getElementById("demo1").innerHTML = "Perimeter: " + (rectanglePerimeter(data1,data2)) + "<br />Area: " + (rectangleArea(data1,data2));
+            }   
+        </script>
+
+        <div class = "text input">
+            <label for = "data3">Enter Circle Radius: </label>
+            <input type ="text" id = "data3" name = "data3"><br>
+        </div>
+        <div class = "button">
+            <button onclick="getData2()">
+                Calculate Perimeter and Area
+            </button>
+        </div>
+        <p id = "demo3">Perimeter:<br />Area:</p>
+        <script>
+            function getData2() {
+                var data3 = document.getElementById("data3").value;
+                // document.getElementById("demo3").textContent = "Perimeter: " + (circlePerimeter(data3)) + " | Area: " + (circleArea(data3));
+                document.getElementById("demo3").innerHTML = "Perimeter: " + (circlePerimeter(data3)).toFixed(2) + "<br />Area: " + (circleArea(data3)).toFixed(2);
+            }
+        </script>
+    </body>
+</html>
